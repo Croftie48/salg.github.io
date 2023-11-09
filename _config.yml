@@ -23,6 +23,8 @@ author: Think Before You Spray
 
 navbar-links:
   About Us: "aboutme"
+  Get A Plot: "Get plot" 
+  The Wilderness: "wilderness"
 
 ################
 # --- Logo --- #
