@@ -4,7 +4,9 @@ title: Contact Us
 subtitle:
 ---
 
-For New Membership Enquiries Please Contact -
+Seaford Allotment Society Secretary:
+
+sec.seaford.allot@gmail.com
 
 
 
