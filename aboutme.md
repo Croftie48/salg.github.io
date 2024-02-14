@@ -8,7 +8,7 @@ They are available for Seaford and Bishopstone residents.
 There are over 200 allotments consisting of full and half plots. There is a mains water supply feeding water tanks positioned around the allotment site. Also on site is a large shed where compost, seeds and second-hand tools can be purchased by plot holders and members of Seaford Horticultural Society. In 2015 with the help of grants from the National Lottery and Seaford Town Council a compost toilet was purchased, solar power is used for the fan and lighting. The solar power also provides lighting in winter for the sales shed.
 
 <p align="center">
-  <img width="400" height="300" src="https://croftie48.github.io/salg.github.io/assets/img/Carrot.jpg">
+  <img width="400" height="300" src="https://croftie48.github.io/salg.github.io/assets/img/Carrot.JPG">
 </p>
 
 Half of the allotment site is flat and the remaining area is on a slope. On part of the land on the Vale Road boundary a line of native British trees were planted as whips in 2015 which now provides excellent autumnal colour and a home for birds and other wildlife. This protects a conservation area of a wildflower meadow and micro orchard. There is also a Hazel Copse surrounded by a dead hedge also providing a home for wildlife. This was all achievable with the help of the grants and our volunteers.
